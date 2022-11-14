@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi there 👋, welcome to our startup page!
 
-<!--
 
-**Here are some ideas to get you started:**
+**Here are some ideas to get you started knowing what our company is about:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🙋 A short introduction - Our company provides technological solutions to small and medium business with a B&B aproach.
+
+👩 Contribution guidelines - For the time being, our company doesn't accept open source neither community contributions.
+
+💻 Useful resources - Our company does have a presentation website, that can be found on our GitHub profile repositories!
+
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+

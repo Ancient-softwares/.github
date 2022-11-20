@@ -9,20 +9,79 @@
 
 💻 Useful resources - Our company does have a presentation website, that can be found on our GitHub profile repositories!
 
-<!--
+## Our history! - See our company's trajectory
+
+![Screenshot_20221120_121512](https://user-images.githubusercontent.com/84593887/202910324-2e8a380e-edc2-46ba-a974-fdf234d147b1.png)
+
+<div style="text-align: 'center';" align'center'>
+
+`"A empresa Ancient é atuante no setor de informática e é especializada no desenvolvimento de softwares para empresas de baixo e médio porte."`
+
+</div>
+
 ## Meeting our development team!
 
-<img width=100 height=100 style="border-radius: '50%'" src="https://user-images.githubusercontent.com/84593887/201699233-d0ac794e-d501-41ba-88c6-97488d2337ad.png"> |
-<img width=100 height=100 style="border-radius: 50%" src="https://user-images.githubusercontent.com/84593887/202878383-a20aeb85-807b-42ef-aea5-04f3f51df404.png"> |
-<img width=100 height=100 style="border-radius: '50%'" src="https://user-images.githubusercontent.com/84593887/202878268-f616943c-e350-4471-bfdf-7e1a5814f33b.png"> |
-<img width=100 height=100 style="border-radius: '50%'" src="https://user-images.githubusercontent.com/84593887/202878303-4747c7eb-8f4b-445f-8255-bdb05a2c48eb.png"> 
--->
+###
+
+<div align='justify'>
+
+<img src="https://user-images.githubusercontent.com/84593887/202909745-7dfe5ddd-695b-4d42-97bb-bff969af5e99.jpeg" align="left" width="94" height="94" alt="Athirson's photo"/>
+ 
+**Name**: Athirson Silva • `Full Stack developer, Analyst and Project Manager` \
+**Skills used in the project**: TypeScript, JavaScript, PHP, Laravel, Bootstrap \
+**Education**: Business management (Technical), Systems development (Technical), Systems analysis and development (Bachelor) \
+<br/>
+
+ <img src="https://user-images.githubusercontent.com/84593887/202909454-c0eb738c-12c0-4b01-97f4-119febc3643a.jpg" align="left" width="94" height="94" alt="Bruno's photo"/>
+ 
+**Name**: Bruno Pires • `Front-end developer` \
+**Skills used in the project**: JavaScript, HTML, CSS, Bootstrap \
+**Education**: Systems development (Technical) \
+<br/>
+
+<img src="https://user-images.githubusercontent.com/84593887/202909521-3fd9e05e-b0a2-4d06-a66c-b2e657215429.jpg" align="left" width="94" height="94" alt="Caique's photo"/>
+
+**Name**: Caique Dias • `Back-end developer` \
+**Skills used in the project**: PHP, Laravel, SQL \
+**Education**: Systems development (Technical) \
+<br/>
+
+<img src="https://user-images.githubusercontent.com/84593887/202909542-89205724-c65b-4d62-8b4b-10ac797ae9c3.jpg" align="left" width="94" height="94" alt="Glauber's photo"/>
+ 
+**Name**: Glauber Perez • `Full-stack developer` \
+**Skills used in the project**: TypeScript, JavaScript, Laravel, PHP \
+**Education**: Systems development (Technical) \
+<br/>
+
+ <img src="https://user-images.githubusercontent.com/84593887/202909562-ffe9b56e-a704-4539-9750-a70ca0f9016b.jpg" align="left" width="94" height="94" alt="Guilhermes' photo"/>
+
+**Name**: Guilherme Scarabelli • `Database Administrator (DBA)` \
+**Skills used in the project**: MySQL, SQL \
+**Education**: Systems development (Technical) \
+<br/>
+ 
+ <img src="https://user-images.githubusercontent.com/84593887/202909623-5c7117ca-cf2b-4fa5-8429-3c08cea0a698.jpg" align="left" width="94" height="94" alt="Kauan's photo"/>
+
+**Name**: Kauan Amorim • `Front-end developer` \
+**Skills used in the project**: JavaScript, HTML, CSS, Bootstrap \
+**Education**: Systems development (Technical), Urban Land Transport (Bachelor) \
+<br/>
+ 
+ <img src="https://user-images.githubusercontent.com/84593887/202909648-5bee643d-c050-44e0-857f-897ede84a68c.jpg" align="left" width="94" height="94" alt="Ricardo's photo"/>
+
+**Name**: Ricardo Vincente • `Front-end developer` \
+**Skills used in the project**: TypeScript, JavaScript, HTML, CSS, Bootstrap \
+**Education**: Systems development (Technical) \
+<br/>
+
+###
+
+</div>
 
 ## Our logos - Next Meal and Ancient Softwares .inc
 
 <img width=490 height=250 src="https://user-images.githubusercontent.com/84593887/202878641-faedcb3e-a33e-4d97-a448-f68334658904.png"> |
 <img width=490 height=250 src="https://user-images.githubusercontent.com/84593887/202878606-bacb640f-3908-4721-911e-7110cb31cf4c.jpg">
-
 
 **Here are some of our products:**
 
@@ -40,20 +99,12 @@
 
 <img width=215 height=500 src="https://user-images.githubusercontent.com/84593887/201699233-d0ac794e-d501-41ba-88c6-97488d2337ad.png"> |
 <img width=215 height=500 src="https://user-images.githubusercontent.com/84593887/202878383-a20aeb85-807b-42ef-aea5-04f3f51df404.png"> |
-<img width=215 height=500 src="https://user-images.githubusercontent.com/84593887/202878268-f616943c-e350-4471-bfdf-7e1a5814f33b.png"> |
+<img width=215 height=500 src="https://user-images.githubusercontent.com/84593887/202909931-e79e8c43-e028-4ca4-bf21-d4b8a3924cee.png"> |
 <img width=215 height=500 src="https://user-images.githubusercontent.com/84593887/202878303-4747c7eb-8f4b-445f-8255-bdb05a2c48eb.png"> 
 
-<!--![Screenshot_20221104_202722](https://user-images.githubusercontent.com/84593887/202878303-4747c7eb-8f4b-445f-8255-bdb05a2c48eb.png)
-![Screenshot_20221104_202807](https://user-images.githubusercontent.com/84593887/202878321-8ff28e39-0059-416f-b067-e6b8650494d7.png)
-![Screenshot_20221104_202722](https://user-images.githubusercontent.com/84593887/202878369-c2e48fb4-0d19-4ba3-8265-0b8abe64541c.png)
+<div align'right'>
 
-![Screenshot_20221119_205503](https://user-images.githubusercontent.com/84593887/202878268-f616943c-e350-4471-bfdf-7e1a5814f33b.png)
-![image](https://user-images.githubusercontent.com/84593887/201699233-d0ac794e-d501-41ba-88c6-97488d2337ad.png)
-![image](https://user-images.githubusercontent.com/84593887/202878383-a20aeb85-807b-42ef-aea5-04f3f51df404.png)
+`Da dúvida à ideia, da ideia à solução.`
 
- | ![image](https://user-images.githubusercontent.com/84593887/202878112-03d2c043-cc53-47a8-a88c-61ddb5d1badc.png)
- | ![image](https://user-images.githubusercontent.com/84593887/202878118-a2f2271d-34fe-440c-bd1a-889c6e63baa7.png)
- | ![image](https://user-images.githubusercontent.com/84593887/202878133-12a450a7-fabf-459f-a8c8-6d21a04293cd.png)
--->
-
+</div>
 

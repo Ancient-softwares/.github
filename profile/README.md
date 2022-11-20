@@ -39,7 +39,7 @@
 **Education**: Systems development (Technical) \
 <br/>
 
-<img src="https://user-images.githubusercontent.com/84593887/202909521-3fd9e05e-b0a2-4d06-a66c-b2e657215429.jpg" align="left" width="94" height="94" alt="Caique's photo"/>
+<img src="https://user-images.githubusercontent.com/59892217/202921638-ef9d068f-c796-4a84-b705-3d1060a90544.jpg" align="left" width="94" height="94" alt="Caique's photo"/>
 
 **Name**: Caique Dias • `Back-end developer` \
 **Skills used in the project**: PHP, Laravel, SQL \

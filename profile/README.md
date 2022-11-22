@@ -80,27 +80,27 @@
 
 ## Our logos - Next Meal and Ancient Softwares .inc
 
-<img width=490 height=250 src="https://user-images.githubusercontent.com/84593887/202878641-faedcb3e-a33e-4d97-a448-f68334658904.png"> |
-<img width=490 height=250 src="https://user-images.githubusercontent.com/84593887/202878606-bacb640f-3908-4721-911e-7110cb31cf4c.jpg">
+<img width=450 height=250 src="https://user-images.githubusercontent.com/84593887/202878641-faedcb3e-a33e-4d97-a448-f68334658904.png"> |
+<img width=450 height=250 src="https://user-images.githubusercontent.com/84593887/202878606-bacb640f-3908-4721-911e-7110cb31cf4c.jpg">
 
 **Here are some of our products:**
 
 ## Ancient Softwares - Company website
 
-<img width=490 height=250 src="https://user-images.githubusercontent.com/84593887/201698895-efdcdee3-80b4-4d12-ace8-d0a81eab887b.png"> |
-<img width=490 height=250 src="https://user-images.githubusercontent.com/84593887/202878084-2a017d39-3cf7-4ede-8a81-f73192c8d2b2.png">
+<img width=450 height=250 src="https://user-images.githubusercontent.com/84593887/201698895-efdcdee3-80b4-4d12-ace8-d0a81eab887b.png"> |
+<img width=450 height=250 src="https://user-images.githubusercontent.com/84593887/202878084-2a017d39-3cf7-4ede-8a81-f73192c8d2b2.png">
 
 ## Next Meal for Business - A Reservation manager for restaurants
 
-<img width=490 height=250 src="https://user-images.githubusercontent.com/84593887/201699072-146b22f5-668b-449e-8cc2-b33e72e58526.png"> |
-<img width=490 height=250 src="https://user-images.githubusercontent.com/84593887/202878056-5e241a29-8a1e-4965-bf44-2a2fdff33d7a.png">
+<img width=450 height=250 src="https://user-images.githubusercontent.com/84593887/201699072-146b22f5-668b-449e-8cc2-b33e72e58526.png"> |
+<img width=450 height=250 src="https://user-images.githubusercontent.com/84593887/202878056-5e241a29-8a1e-4965-bf44-2a2fdff33d7a.png">
 
 ## Next Meal - A mobile app for reservation scheduling
 
-<img width=215 height=500 src="https://user-images.githubusercontent.com/84593887/201699233-d0ac794e-d501-41ba-88c6-97488d2337ad.png"> |
-<img width=215 height=500 src="https://user-images.githubusercontent.com/84593887/202878383-a20aeb85-807b-42ef-aea5-04f3f51df404.png"> |
-<img width=215 height=500 src="https://user-images.githubusercontent.com/84593887/202909931-e79e8c43-e028-4ca4-bf21-d4b8a3924cee.png"> |
-<img width=215 height=500 src="https://user-images.githubusercontent.com/84593887/202878303-4747c7eb-8f4b-445f-8255-bdb05a2c48eb.png"> 
+<img width=200 height=500 src="https://user-images.githubusercontent.com/84593887/201699233-d0ac794e-d501-41ba-88c6-97488d2337ad.png"> |
+<img width=200 height=500 src="https://user-images.githubusercontent.com/84593887/202878383-a20aeb85-807b-42ef-aea5-04f3f51df404.png"> |
+<img width=200 height=500 src="https://user-images.githubusercontent.com/84593887/202909931-e79e8c43-e028-4ca4-bf21-d4b8a3924cee.png"> |
+<img width=200 height=500 src="https://user-images.githubusercontent.com/84593887/202878303-4747c7eb-8f4b-445f-8255-bdb05a2c48eb.png"> 
 
 <div align'right'>
 
